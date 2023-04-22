@@ -1,0 +1,15 @@
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\bin\Debug\CSFileDownloader.exe.config
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\bin\Debug\CSFileDownloader.exe
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\bin\Debug\CSFileDownloader.pdb
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.csproj.AssemblyReference.cache
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.Form1.resources
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.Properties.Resources.resources
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.csproj.GenerateResource.cache
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.exe
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.pdb
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\bin\Debug\AltoHttp.dll
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Orang\source\repos\CSFileDownloader\CSFileDownloader\obj\Debug\CSFileDownloader.csproj.CopyComplete
