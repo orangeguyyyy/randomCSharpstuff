@@ -1,0 +1,11 @@
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\bin\Debug\setdefaultapp.exe.config
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\bin\Debug\setdefaultapp.exe
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\bin\Debug\setdefaultapp.pdb
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.csproj.AssemblyReference.cache
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.Form1.resources
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.Properties.Resources.resources
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.csproj.GenerateResource.cache
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.csproj.CoreCompileInputs.cache
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.exe
+C:\Users\Orang\source\repos\setdefaultapp\setdefaultapp\obj\Debug\setdefaultapp.pdb
